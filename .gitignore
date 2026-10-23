@@ -1,0 +1,21 @@
+# GHDL & Simulation outputs
+build/
+*.cf
+*.vcd
+
+# Xilinx ISE generated files
+*.xise
+*.xst
+*.syr
+*.prj
+*.ngc
+*.ngr
+*.lso
+*.cmd_log
+*.html
+*.exe
+*.wdb
+isim/
+xst/
+xmsgs/
+iseconfig/
